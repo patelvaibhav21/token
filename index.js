@@ -1,9 +1,8 @@
 const express = require('express')
 const app = express()
 
-// i am add
-// i am from push
-// i am push req
+
+// i am pull
 
 // import all controller and middleware
 const { validate_field } = require('./middleware/validation')
